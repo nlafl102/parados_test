@@ -464,8 +464,8 @@ def main():
     selected_view = 'Front'
     selected_category = 'Upper Body Exercises'
 
-    video_path = './videos/squat1080.mp4'
-    csv_path = 'squat1080.csv'
+    video_path = './videos/Squat4k.mp4'
+    csv_path = 'squat4k.csv'
     with open(csv_path, mode='w', newline='') as file:
             writer = csv.writer(file)
             # Write CSV header
